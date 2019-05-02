@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/87e5f28470f0cca4bbc9fdc45003c60a
+    guid: 87e5f28470f0cca4bbc9fdc45003c60a
   m_configObjects: {}

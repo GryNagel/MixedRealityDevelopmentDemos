@@ -539,12 +539,12 @@ PlayerSettings:
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
   metroPackageName: Template_3D
-  metroPackageVersion: 
-  metroCertificatePath: 
+  metroPackageVersion: 1.0.1.0
+  metroCertificatePath: C:\git\MixedRealityDevelopmentDemos\MixedRealityProjectWithExamples\Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 803d24ad8022d601
   metroApplicationDescription: Template_3D
   wsaImages: {}
   metroTileShortName: 
